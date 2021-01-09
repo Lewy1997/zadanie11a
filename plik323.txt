@@ -1,2 +1,2 @@
 master; 1 rewizja
-dadadadad
+dadadadad+galaz branch02; kolejna rewizja
